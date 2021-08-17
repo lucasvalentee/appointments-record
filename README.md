@@ -1,6 +1,6 @@
-# Basic project with Node.js
+# Appointments record
 
-The project consists of an API made with Node.js and Typescript to perform tests with programming principles in the backend, based on Rocketseat's GoStack course.
+The project consists of an API made with Node.js and Typescript to perform tests with programming principles in the backend. It is possible to register new appointments and validate them.
 
 ## How to start
 
